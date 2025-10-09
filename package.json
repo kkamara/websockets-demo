@@ -1,0 +1,12 @@
+{
+  "name": "websocket-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "BSD-3-Clause",
+  "scripts": {
+    "start": "yarn node index.js"
+  },
+  "dependencies": {
+    "websocket": "^1.0.35"
+  }
+}
