@@ -6,7 +6,7 @@ A WebSocket server with packages WebSocket and HTTP.
 
 * [Usage](#usage)
 
-* [Usage](#testing)
+* [Testing](#testing)
 
 * [Contributing](#contributing)
 
