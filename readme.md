@@ -1,4 +1,4 @@
-# websocket-demo
+# websockets-demo
 
 This repository follows Hussein Nasser's course WebSockets Crash Course - Handshake, Use-cases, Pros & Cons and more at https://www.youtube.com/watch?v=2Nt-ZrNP22A .
 

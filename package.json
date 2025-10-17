@@ -1,5 +1,5 @@
 {
-  "name": "websocket-demo",
+  "name": "websockets-demo",
   "version": "1.0.0",
   "main": "index.js",
   "license": "BSD-3-Clause",
